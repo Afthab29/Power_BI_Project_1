@@ -1,5 +1,7 @@
 # FINANCIAL PERFORMANCE
 
+Project_Link ; https://github.com/Afthab29/Power_BI_Project_1
+
 ## 🚀 Introduction
 
 This Power BI project delivers an in-depth analysis of financial and sales data, enabling businesses to make informed, data-driven decisions. Through interactive dashboards, key performance indicators (KPIs), and trend analysis, this report provides valuable insights into revenue growth, profit margins, sales performance, and regional distribution. By leveraging Power BI's advanced data visualization and analytical capabilities, this project aims to enhance financial transparency, operational efficiency, and strategic planning.
