@@ -45,8 +45,11 @@ Excel Data Sources – Used for structured financial data integration.
 🔄 Future Enhancements
 
 📌 Real-time Data Integration: Connect live databases for up-to-date analytics.
+
 📌 Predictive Analytics: Implement AI-powered forecasting models to predict future sales.
+
 📌 Advanced DAX Measures: Introduce complex calculations for deeper financial analysis.
+
 📌 UI Enhancements: Improve dashboard aesthetics with custom themes and branding.
 
 ## 📜 License
